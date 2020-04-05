@@ -1,4 +1,4 @@
-# DL4CV_Image_Classifier k-NN
+# Image Classifier k-Nearest Neighbor (k-NN)
 Chapter 7 of the Deep Learning for Computer Vision book. Exercise making an initial image classifier on animals data set.
 
 Implementation of a simple k-Nearest Neighbor (k-NN) classifier.
