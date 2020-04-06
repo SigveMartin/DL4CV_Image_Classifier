@@ -5,9 +5,9 @@ Implementation of a simple k-Nearest Neighbor (k-NN) classifier.
 
 >"Tell me who your neighbors are, and I'll tell you who you are"
 
-## Running the
+## Running the program
 
-```$oython knn.py --dataset "../datasets/animals"```
+```$python knn.py --dataset "../datasets/animals"```
 
 results from first run:
 
